@@ -13,5 +13,5 @@ MLOps é uma cultura e uma prática de engenharia de ML que visa unificar o dese
 - Ferramentas de testes de Apis e boas praticas do MLOPS
 
 
-O projeto será construido em duas etapas, primeira a construção do modelo de machine learning com analise de sentimento para após a construção do MLOPS
-o projeto será construido de machine learing será construido na IDE anaconda e o MLOPS construido na IDE Visual Studio Code.
+O projeto será construido em duas etapas, primeira a construção do modelo de machine learning com analise de sentimento para após a construção do MLOPS. Outro ponto é 
+as IDE o projeto que simulara a um projeto em producao de ML será o IDE anaconda e o MLOPS construido na IDE Visual Studio Code.
